@@ -1,0 +1,21 @@
+Name,Amount,Type
+Salary,5000,income
+Rent,-1200,expense
+Groceries,-350,expense
+Freelance Work,1200,income
+Electricity Bill,-120,expense
+Internet,-80,expense
+Restaurant Dinner,-95,expense
+Book Purchase,-35,expense
+Bus Pass,-60,expense
+Birthday Gift,-50,expense
+Tax Refund,750,income
+Coffee Shop,-25,expense
+Gym Membership,-50,expense
+Side Project Income,400,income
+Phone Bill,-70,expense
+Movie Tickets,-30,expense
+Shopping,-200,expense
+Gas,-65,expense
+Dividend Payment,120,income
+Medical Expense,-180,expense
